@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Infra-IBM%20%7C%20Docker%20%7C%20FastAPI-informational?logo=docker" />
 </p>
 
-### About Me
+### CTO + Builder in One
 
 I’m **Arindam Kar**, a Fractional CTO with 23+ years in enterprise IT and global delivery leadership.
 
