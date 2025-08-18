@@ -48,7 +48,7 @@ Formerly:
 
 #### 🔹 [`voteR`](https://github.com/KriyaLab/voteR)
 - AI political analysis engine — sentiment, slogans, flyers & pitch decks  
-- Self-hosted LLM + SQLite + PDF + video generation
+- Groq API + SQLite + PDF + video generation , Hybrid retrieval (OpenSearch BM25 → embedding re-rank) + LangChain orchestration for reliable, auditable outputs
 
 #### 🔹 [`ocr-multilingual`](https://github.com/KriyaLab/ocr-multilingual)
 - OCR → Excel for Indian voter lists (Hindi, Kannada, English)  
